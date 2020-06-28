@@ -1,1 +1,0 @@
-# GMART-Inventory-Management
